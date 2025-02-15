@@ -1,0 +1,1 @@
+# bash_script_manage_member_sonar
