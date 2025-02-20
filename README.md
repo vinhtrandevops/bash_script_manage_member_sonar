@@ -67,5 +67,5 @@ Once executed, the CLI interface will display options:
 - **Verify project key before making changes**
 - **The executing account must have admin rights on SonarQube**
 - **Do not share API credentials publicly**
-
+test
 
